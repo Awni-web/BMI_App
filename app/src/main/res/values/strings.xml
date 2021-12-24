@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI_App</string>
+
+    <string-array name="category_array">
+        <item>Fish</item>
+        <item>Meat</item>
+        <item>Grains</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+    </string-array>
+</resources>
